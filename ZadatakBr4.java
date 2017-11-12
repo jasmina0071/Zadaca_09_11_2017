@@ -15,13 +15,9 @@ public class ZadatakBr4 {
 	 			if (Character.isUpperCase(slova)) {
 	 				brojac++;
 	 				
-	 				
-	 			
-	 
 	 		   }
 		  }
 		 
 		 System.out.println("Velikih slova ima: " + brojac);
-		 
-	 }
+	}
 }
